@@ -42,8 +42,8 @@ public class HotelRoom07 {
                     sumStudio = 76 * nights;
                     sumAp = (77 * 0.9) * nights;
                 } else {
-                    sumStudio = nights * 50;
-                    sumAp = nights * 68.70;
+                    sumStudio = nights * 76;
+                    sumAp = nights * 77;
                 }break;
         }
         System.out.printf("Apartment: %.2f lv.\nStudio: %.2f lv.", sumAp, sumStudio);
