@@ -19,7 +19,7 @@ public class OnTimeForTheExam08 {
         String output2 = "";
         int difference = 0;
 
-        if (arrivedTime < examMinute - 30) {
+        if (arrivedTime < examTime - 30) {
             output = "Early";
             difference = examTime - arrivedTime;
 
@@ -28,14 +28,14 @@ public class OnTimeForTheExam08 {
             } else {
                 int hour = difference / 60;
                 int minutes = difference % 60;
-                output2 = String.format("%d:%02d hours before the start", hour, minutes);
+                output2 = String.format("%d:%02d hours before the start",hour, minutes);
             }
-        } else if (arrivedTime < examTime) {
+        } else if (arrivedTime <= examTime) {
             output = "On time";
             difference = examTime - arrivedTime;
             output2 = String.format("%d minutes before the start", difference);
 
-        } else if (arrivedTime > examTime) {
+        } else {
 
             output = "Late";
             difference = arrivedTime - examTime;
@@ -44,7 +44,7 @@ public class OnTimeForTheExam08 {
             } else {
                 int hour = difference / 60;
                 int minutes = difference % 60;
-                output2 = String.format("%d:%02d hours after the start", hour, minutes);
+                output2 = String.format("%d:%02d hours after the start",hour, minutes);
             }
         }
 
@@ -52,4 +52,5 @@ public class OnTimeForTheExam08 {
         System.out.println(output2);
     }
 }
+
 
