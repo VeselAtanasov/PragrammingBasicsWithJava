@@ -43,7 +43,6 @@ public class EasterEggs05 {
             maxColour = "green";
         }
 
-
         System.out.printf("Red eggs: %d\n", redEggs);
         System.out.printf("Orange eggs: %d\n", orangeEggs);
         System.out.printf("Blue eggs: %d\n", blueEggs);
