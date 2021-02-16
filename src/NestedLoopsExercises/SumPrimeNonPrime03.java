@@ -1,4 +1,4 @@
-package NestedLoopsMoreExercises;
+package NestedLoopsExercises;
 
 import java.util.Scanner;
 
