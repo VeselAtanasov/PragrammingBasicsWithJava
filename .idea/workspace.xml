@@ -1,195 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa68acd0-fb93-4140-849d-6a7794586557" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstStepsInCoding.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsAdvancedExercise/Cinema01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsAdvancedExercise/FishingBoat04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsAdvancedExercise/HotelRoom07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsAdvancedExercise/Journey05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsAdvancedExercise/NewHouse03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsAdvancedExercise/OnTimeForTheExam08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsAdvancedExercise/OperationsBetweenNumbers06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsAdvancedExercise/SummerOutfit02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsAdvancedExercise/Volleyball09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsAdvancedLab/AnimalType03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsAdvancedLab/CinemaTicket08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsAdvancedLab/DayOfWeek01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsAdvancedLab/FruitOrVegetable09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsAdvancedLab/FruitShop11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsAdvancedLab/InvalidNumber10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsAdvancedLab/NumberInRange06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsAdvancedLab/PersonalTitles04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsAdvancedLab/SkiTrip13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsAdvancedLab/SmallShop05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsAdvancedLab/TradeCommissions12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsAdvancedLab/WeekendOrWorkingDay02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsAdvancedLab/WorkingHours07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsExercise/BonusScore02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsExercise/GodzillaVsKong06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsExercise/MetricConverter04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsExercise/Scholarship08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsExercise/SpeedInfo03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsExercise/SumSeconds01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsExercise/TimeMinutes05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsExercise/WorldSwimmingRecord07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsLab/AreaOfFigures06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsLab/EvenOrOdd03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsLab/ExcellentResult01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsLab/GreaterNumber02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsLab/Numbers04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsLab/PasswordGuess05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsLab/ToyShop07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsMoreExercises/CleepyTom02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsMoreExercises/Firm05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsMoreExercises/FlowerShop07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsMoreExercises/FuelTank08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsMoreExercises/FuelTank082.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsMoreExercises/Harvest03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsMoreExercises/Pets06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsMoreExercises/PipesInPool01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ConditionalStatementsMoreExercises/TransportPrice04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsInCodingExercise/Birthday05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsInCodingExercise/CharityCampaign06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsInCodingExercise/DepositCalculator07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsInCodingExercise/FishTank08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsInCodingExercise/FruitMarket07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsInCodingExercise/RadiansToDegrees02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsInCodingExercise/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsInCodingExercise/UsdToBgn01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsInCodingExercise/VacationBookList04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsInCodingExercise/YardGreening09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsInCodingLab/ConcatenateData06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsInCodingLab/GreetingByName05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsInCodingLab/HelloWorld01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsInCodingLab/InchToSm04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsInCodingLab/Nums1to1002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsInCodingLab/PetShop08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsInCodingLab/ProjectCreation07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsInCodingLab/SqareArea03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsInCodingLab/UserInputTESTS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsInCodingLab/YardGreening09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsMoreExercises/CelsiusToFahrenheit03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsMoreExercises/CircleAreaAndPerimeter08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsMoreExercises/Fishland06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsMoreExercises/HousePainting07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsMoreExercises/TrainingLab05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsMoreExercises/TrapezoidArea01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsMoreExercises/TriangleArea02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsMoreExercises/VegetableMarket04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsMoreExercises/WeatherForecast09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/FirstStepsMoreExercises/WeatherForecast10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopExercise/DivideWithoutRemainder05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopExercise/HalfSumElement02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopExercise/Histogram04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopExercise/NumbersEndingIn701.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopExercise/OddEvenPosition03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopExercise/Salary06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/CharacterSequence05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/CleverLily11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/EvenPowersOf04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/LeftAndRightSum09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/NumberSequence08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/NumbersFrom1to1001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/NumbersN02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/NumbersWithStep3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/OddEvenSum10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/SumNumber07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/VowelsSum06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopMoreExercises/BackToThePast01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopMoreExercises/Bills06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopMoreExercises/Clock09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopMoreExercises/EqualPairs08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopMoreExercises/FootballLeague07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopMoreExercises/GameOfIntervals05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopMoreExercises/Grades04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopMoreExercises/Hospital02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopMoreExercises/Logistics03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedConditionalStatementsMoreExercises/BikeRace02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedConditionalStatementsMoreExercises/CarToGo04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedConditionalStatementsMoreExercises/Flowers03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedConditionalStatementsMoreExercises/MatchTickets01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedConditionalStatementsMoreExercises/MultiplyBy2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedConditionalStatementsMoreExercises/NumbersFrom1To10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedConditionalStatementsMoreExercises/PointonRectangleBorder08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedConditionalStatementsMoreExercises/SchoolCamp07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedConditionalStatementsMoreExercises/TruckDriver06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedConditionalStatementsMoreExercises/Vacation05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsExercises/EqualSumsEvenOddPosition02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsExercises/NumberPyramid01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsExercises/PasswordGenerator05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsExercises/SpecialNumbers06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsExercises/SumPrimeNonPrime03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsExercises/TrainTheTrainers04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsLab/Building06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsLab/CinemaTickets07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsLab/Clock01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsLab/Combinations03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsLab/MultiplicationTable02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsLab/SumOfTwoNumbers04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsLab/Travelling05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsMoreExercises/CarNumber04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsMoreExercises/ChallengeTheWedding05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsMoreExercises/EqualSumsEvenOddPosition02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsMoreExercises/LettersCombinations02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsMoreExercises/LuckyNumbers03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsMoreExercises/NumberPyramid01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsMoreExercises/PasswordGenerator05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsMoreExercises/Profit10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsMoreExercises/SafePasswordsGenerator07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsMoreExercises/SecretDoorsLock08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsMoreExercises/SumOfTwoNumbers09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsMoreExercises/SumPrimeNonPrime03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsMoreExercises/TrainTheTrainers04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsMoreExercises/UniquePINCodes01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/NestedLoopsMoreExercises/WeddingSeats06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/BarcodeGenerator06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/BestPlayer05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/CareOfPuppy05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/EasterBake05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/EasterEggs05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/EasterShop04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/FitnessCenter05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/FoodForPets04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/MovieRatings05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/Oscars05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/SuitcasesLoad05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/TennisRankList05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/TournamentOfChristmas06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/TravelAgency03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/TrekkingMania04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/VetParking06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/WorldSnookerChampionship03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/WhileLoopExercise/Cake06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/WhileLoopExercise/Coins05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/WhileLoopExercise/ExamPreparation02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/WhileLoopExercise/OldBooks01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/WhileLoopExercise/Vacation03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/WhileLoopExercise/Walking04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/WhileLoopLab/AccountBalance05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/WhileLoopLab/GraduationPt208.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/WhileLoopLab/MaxNumber06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/WhileLoopLab/MinNumber07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/WhileLoopLab/Moving09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/WhileLoopLab/Password02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/WhileLoopLab/ReadText01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/WhileLoopLab/Sequence2k104.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/WhileLoopLab/SumNumbers03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/WhileLoopMoreExercises/AverageNumber05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/WhileLoopMoreExercises/Dishwasher01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/WhileLoopMoreExercises/NumbersDivided04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/WhileLoopMoreExercises/ReportSystem02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/WhileLoopMoreExercises/StreamOfLetters03.class" beforeDir="false" />
-    </list>
+    <list default="true" id="fa68acd0-fb93-4140-849d-6a7794586557" name="Default Changelist" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -216,6 +28,36 @@
       <option name="presentableId" value="Default" />
       <updated>1613681684736</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1613681754904</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613681754904</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1613681776767</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613681776767</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
