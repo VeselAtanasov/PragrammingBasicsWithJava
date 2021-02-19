@@ -1,7 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa68acd0-fb93-4140-849d-6a7794586557" name="Default Changelist" comment="Initial commit" />
+    <list default="true" id="fa68acd0-fb93-4140-849d-6a7794586557" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsInCodingExercise/Birthday05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsInCodingExercise/CharityCampaign06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsInCodingExercise/DepositCalculator07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsInCodingExercise/FishTank08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsInCodingExercise/FruitMarket07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsInCodingExercise/RadiansToDegrees02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsInCodingExercise/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsInCodingExercise/UsdToBgn01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsInCodingExercise/VacationBookList04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsInCodingExercise/YardGreening09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsInCodingLab/ConcatenateData06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsInCodingLab/GreetingByName05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsInCodingLab/HelloWorld01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsInCodingLab/InchToSm04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsInCodingLab/Nums1to1002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsInCodingLab/PetShop08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsInCodingLab/ProjectCreation07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsInCodingLab/SqareArea03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsInCodingLab/UserInputTESTS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsInCodingLab/YardGreening09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsMoreExercises/CelsiusToFahrenheit03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsMoreExercises/CircleAreaAndPerimeter08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsMoreExercises/Fishland06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsMoreExercises/HousePainting07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsMoreExercises/TrainingLab05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsMoreExercises/TrapezoidArea01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsMoreExercises/TriangleArea02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsMoreExercises/VegetableMarket04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsMoreExercises/WeatherForecast09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01FirstSteps/FirstStepsMoreExercises/WeatherForecast10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsAdvancedExercise/Cinema01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsAdvancedExercise/FishingBoat04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsAdvancedExercise/HotelRoom07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsAdvancedExercise/Journey05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsAdvancedExercise/NewHouse03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsAdvancedExercise/OnTimeForTheExam08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsAdvancedExercise/OperationsBetweenNumbers06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsAdvancedExercise/SummerOutfit02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsAdvancedExercise/Volleyball09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsAdvancedLab/AnimalType03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsAdvancedLab/CinemaTicket08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsAdvancedLab/DayOfWeek01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsAdvancedLab/FruitOrVegetable09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsAdvancedLab/FruitShop11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsAdvancedLab/InvalidNumber10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsAdvancedLab/NumberInRange06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsAdvancedLab/PersonalTitles04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsAdvancedLab/SkiTrip13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsAdvancedLab/SmallShop05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsAdvancedLab/TradeCommissions12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsAdvancedLab/WeekendOrWorkingDay02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsAdvancedLab/WorkingHours07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsExercise/BonusScore02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsExercise/GodzillaVsKong06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsExercise/MetricConverter04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsExercise/Scholarship08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsExercise/SpeedInfo03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsExercise/SumSeconds01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsExercise/TimeMinutes05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsExercise/WorldSwimmingRecord07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsLab/AreaOfFigures06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsLab/EvenOrOdd03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsLab/ExcellentResult01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsLab/GreaterNumber02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsLab/Numbers04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsLab/PasswordGuess05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsLab/ToyShop07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsMoreExercises/CleepyTom02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsMoreExercises/Firm05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsMoreExercises/FlowerShop07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsMoreExercises/FuelTank08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsMoreExercises/FuelTank082.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsMoreExercises/Harvest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsMoreExercises/Pets06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsMoreExercises/PipesInPool01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/ConditionalStatementsMoreExercises/TransportPrice04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/NestedConditionalStatementsMoreExercises/BikeRace02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/NestedConditionalStatementsMoreExercises/CarToGo04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/NestedConditionalStatementsMoreExercises/Flowers03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/NestedConditionalStatementsMoreExercises/MatchTickets01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/NestedConditionalStatementsMoreExercises/MultiplyBy2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/NestedConditionalStatementsMoreExercises/NumbersFrom1To10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/NestedConditionalStatementsMoreExercises/PointonRectangleBorder08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/NestedConditionalStatementsMoreExercises/SchoolCamp07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/NestedConditionalStatementsMoreExercises/TruckDriver06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-03ConditionalStatements/NestedConditionalStatementsMoreExercises/Vacation05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopExercise/DivideWithoutRemainder05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopExercise/HalfSumElement02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopExercise/Histogram04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopExercise/NumbersEndingIn701.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopExercise/OddEvenPosition03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopExercise/Salary06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopLab/CharacterSequence05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopLab/CleverLily11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopLab/EvenPowersOf04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopLab/LeftAndRightSum09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopLab/NumberSequence08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopLab/NumbersFrom1to1001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopLab/NumbersN02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopLab/NumbersWithStep3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopLab/OddEvenSum10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopLab/SumNumber07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopLab/VowelsSum06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopMoreExercises/BackToThePast01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopMoreExercises/Bills06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopMoreExercises/Clock09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopMoreExercises/EqualPairs08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopMoreExercises/FootballLeague07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopMoreExercises/GameOfIntervals05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopMoreExercises/Grades04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopMoreExercises/Hospital02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04ForLoop/ForLoopMoreExercises/Logistics03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05WhileLoop/WhileLoopExercise/Cake06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05WhileLoop/WhileLoopExercise/Coins05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05WhileLoop/WhileLoopExercise/ExamPreparation02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05WhileLoop/WhileLoopExercise/OldBooks01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05WhileLoop/WhileLoopExercise/Vacation03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05WhileLoop/WhileLoopExercise/Walking04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05WhileLoop/WhileLoopLab/AccountBalance05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05WhileLoop/WhileLoopLab/GraduationPt208.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05WhileLoop/WhileLoopLab/MaxNumber06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05WhileLoop/WhileLoopLab/MinNumber07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05WhileLoop/WhileLoopLab/Moving09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05WhileLoop/WhileLoopLab/Password02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05WhileLoop/WhileLoopLab/ReadText01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05WhileLoop/WhileLoopLab/Sequence2k104.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05WhileLoop/WhileLoopLab/SumNumbers03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05WhileLoop/WhileLoopMoreExercises/AverageNumber05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05WhileLoop/WhileLoopMoreExercises/Dishwasher01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05WhileLoop/WhileLoopMoreExercises/NumbersDivided04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05WhileLoop/WhileLoopMoreExercises/ReportSystem02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05WhileLoop/WhileLoopMoreExercises/StreamOfLetters03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsExercises/EqualSumsEvenOddPosition02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsExercises/NumberPyramid01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsExercises/PasswordGenerator05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsExercises/SpecialNumbers06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsExercises/SumPrimeNonPrime03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsExercises/TrainTheTrainers04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsLab/Building06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsLab/CinemaTickets07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsLab/Clock01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsLab/Combinations03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsLab/MultiplicationTable02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsLab/SumOfTwoNumbers04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsLab/Travelling05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsMoreExercises/CarNumber04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsMoreExercises/ChallengeTheWedding05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsMoreExercises/LettersCombinations02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsMoreExercises/LuckyNumbers03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsMoreExercises/Profit10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsMoreExercises/SafePasswordsGenerator07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsMoreExercises/SecretDoorsLock08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsMoreExercises/SumOfTwoNumbers09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsMoreExercises/UniquePINCodes01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06NestedLoops/NestedLoopsMoreExercises/WeddingSeats06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/07ProgrammingBasicsOnlineExam/BarcodeGenerator06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/07ProgrammingBasicsOnlineExam/BestPlayer05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/07ProgrammingBasicsOnlineExam/CareOfPuppy05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/07ProgrammingBasicsOnlineExam/EasterBake05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/07ProgrammingBasicsOnlineExam/EasterEggs05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/07ProgrammingBasicsOnlineExam/EasterShop04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/07ProgrammingBasicsOnlineExam/FitnessCenter05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/07ProgrammingBasicsOnlineExam/FoodForPets04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/07ProgrammingBasicsOnlineExam/MovieRatings05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/07ProgrammingBasicsOnlineExam/Oscars05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/07ProgrammingBasicsOnlineExam/SuitcasesLoad05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/07ProgrammingBasicsOnlineExam/TennisRankList05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/07ProgrammingBasicsOnlineExam/TournamentOfChristmas06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/07ProgrammingBasicsOnlineExam/TravelAgency03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/07ProgrammingBasicsOnlineExam/TrekkingMania04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/07ProgrammingBasicsOnlineExam/VetParking06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/07ProgrammingBasicsOnlineExam/WorldSnookerChampionship03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstStepsInCoding1.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +217,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613681776767</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1613681910894</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613681910894</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1613681928784</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613681928784</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -55,6 +244,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
