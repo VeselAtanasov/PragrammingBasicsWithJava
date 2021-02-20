@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa68acd0-fb93-4140-849d-6a7794586557" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/NestedLoopsMoreExercises/HappyCatParking11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NestedLoopsMoreExercises/PrimePairs13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NestedLoopsMoreExercises/TheSongOfTheWheels12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/PoolDay01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +37,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.PrimePairs13">
+  <component name="RunManager" selected="Application.PoolDay01">
+    <configuration name="PoolDay01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgrammingBasicsOnlineExam.PoolDay01" />
+      <module name="FirstStepsInCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProgrammingBasicsOnlineExam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrimePairs13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NestedLoopsMoreExercises.PrimePairs13" />
       <module name="FirstStepsInCoding" />
@@ -68,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PoolDay01" />
         <item itemvalue="Application.PrimePairs13" />
         <item itemvalue="Application.TheSongOfTheWheels12" />
       </list>
