@@ -1,4 +1,4 @@
-package exam;
+package ProgrammingBasicsOnlineExam;
 
 import java.util.Scanner;
 
