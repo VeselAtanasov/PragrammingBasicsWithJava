@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa68acd0-fb93-4140-849d-6a7794586557" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/PoolDay01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/ANDProcessors02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/CatFood04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/FootballSouvenirs03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/GoldMine06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/ProgrammingBook01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/PuppyCare05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/ex4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exam/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exam/ex1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,14 +45,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.PoolDay01">
-    <configuration name="PoolDay01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgrammingBasicsOnlineExam.PoolDay01" />
+  <component name="RunManager" selected="Application.test">
+    <configuration name="GoldMine06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.GoldMine06" />
       <module name="FirstStepsInCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProgrammingBasicsOnlineExam.*" />
+          <option name="PATTERN" value="exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimePairs13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NestedLoopsMoreExercises.PrimePairs13" />
+    <configuration name="ProgrammingBook01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.ProgrammingBook01" />
       <module name="FirstStepsInCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NestedLoopsMoreExercises.*" />
+          <option name="PATTERN" value="exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +74,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheSongOfTheWheels12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NestedLoopsMoreExercises.TheSongOfTheWheels12" />
+    <configuration name="PuppyCare05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.PuppyCare05" />
       <module name="FirstStepsInCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NestedLoopsMoreExercises.*" />
+          <option name="PATTERN" value="exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.ex4" />
+      <module name="FirstStepsInCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopLab.test" />
+      <module name="FirstStepsInCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ForLoopLab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,9 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PoolDay01" />
-        <item itemvalue="Application.PrimePairs13" />
-        <item itemvalue="Application.TheSongOfTheWheels12" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.GoldMine06" />
+        <item itemvalue="Application.ex4" />
+        <item itemvalue="Application.PuppyCare05" />
+        <item itemvalue="Application.ProgrammingBook01" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613758448711</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Initial commit">
+      <created>1613811953004</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1613811953004</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +214,16 @@
           <url>file://$PROJECT_DIR$/src/NestedLoopsMoreExercises/TheSongOfTheWheels12.java</url>
           <line>12</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exam/ProgrammingBook01.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exam/ANDProcessors02.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
