@@ -3,15 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="fa68acd0-fb93-4140-849d-6a7794586557" name="Default Changelist" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exam/ANDProcessors02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/ANDProcessors02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exam/CatFood04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/CatFood04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exam/FootballSouvenirs03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/FootballSouvenirs03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exam/GoldMine06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/GoldMine06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exam/ProgrammingBook01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/ProgrammingBook01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exam/PuppyCare05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/PuppyCare05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exam/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exam/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exam/ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/exam/ANDProcessors02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/exam/CatFood04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/exam/FootballSouvenirs03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/exam/GoldMine06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/exam/ProgrammingBook01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/exam/PuppyCare05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/exam/ex1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/exam/ex2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/exam/ex4.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,22 +47,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.test (1)">
     <configuration name="GoldMine06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProgrammingBasicsOnlineExam.GoldMine06" />
-      <module name="FirstStepsInCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProgrammingBasicsOnlineExam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProgrammingBook01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgrammingBasicsOnlineExam.ProgrammingBook01" />
       <module name="FirstStepsInCoding" />
       <extension name="coverage">
         <pattern>
@@ -99,6 +87,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionalStatementsAdvancedExercise.test" />
+      <module name="FirstStepsInCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConditionalStatementsAdvancedExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForLoopLab.test" />
       <module name="FirstStepsInCoding" />
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test (1)" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.GoldMine06" />
         <item itemvalue="Application.ex4" />
         <item itemvalue="Application.PuppyCare05" />
-        <item itemvalue="Application.ProgrammingBook01" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616170456601</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Initial commit">
+      <created>1616172316114</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1616172316114</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
