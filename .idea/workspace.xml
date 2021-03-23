@@ -40,7 +40,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Ex_01_PipesInPool">
+  <component name="RunManager" selected="Application.Ex_02_SleepyTom">
     <configuration name="Ex_01_PipesInPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_02_ConditionalStatements.MoreExercises.Ex_01_PipesInPool" />
       <module name="FirstStepsInCoding" />
@@ -54,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_04_GiftFromSanta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgrammingBasicsExams.Ex_04_GiftFromSanta" />
+    <configuration name="Ex_02_SleepyTom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02_ConditionalStatements.MoreExercises.Ex_02_SleepyTom" />
       <module name="FirstStepsInCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProgrammingBasicsExams.*" />
+          <option name="PATTERN" value="_02_ConditionalStatements.MoreExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,11 +68,11 @@
       </method>
     </configuration>
     <configuration name="Ex_06_GoldMine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgrammingBasicsExams.Ex_06_GoldMine" />
+      <option name="MAIN_CLASS_NAME" value="_07_ProgrammingBasicsExams.Ex_06_GoldMine" />
       <module name="FirstStepsInCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProgrammingBasicsExams.*" />
+          <option name="PATTERN" value="_07_ProgrammingBasicsExams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex_02_SleepyTom" />
         <item itemvalue="Application.Ex_01_PipesInPool" />
         <item itemvalue="Application.test (1)" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Ex_06_GoldMine" />
-        <item itemvalue="Application.Ex_04_GiftFromSanta" />
       </list>
     </recent_temporary>
   </component>
