@@ -2,7 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa68acd0-fb93-4140-849d-6a7794586557" name="Default Changelist" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedExercise/OperationsBetweenNumbers06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Exercise/Ex_06_OperationsBetweenNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/CharacterSequence05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/CleverLily11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/EvenPowersOf04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/LeftAndRightSum09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/NumberSequence08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/NumbersFrom1to1001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/NumbersN02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/NumbersWithStep3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/OddEvenSum10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/SumNumber07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ForLoopLab/VowelsSum06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/ANDProcessors02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/BarcodeGenerator06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/BestPlayer05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/CareOfPuppy05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/CatFood04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/EasterBake05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/EasterEggs05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/EasterShop04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/FitnessCenter05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/FoodForPets04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/FootballSouvenirs03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/GoldMine06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/MovieRatings05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/Oscars05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/PoolDay01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/ProgrammingBook01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/PuppyCare05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/SuitcasesLoad05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/TennisRankList05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/TournamentOfChristmas06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/TravelAgency03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/TrekkingMania04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/VetParking06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/WorldSnookerChampionship03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/ex1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/ex2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstStepsInCoding/ProgrammingBasicsOnlineExam/ex4.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +80,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.test (1)">
-    <configuration name="Ex_04_GiftFromSanta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgrammingBasicsExams.Ex_04_GiftFromSanta" />
+  <component name="RunManager" selected="Application.Ex_01_PipesInPool">
+    <configuration name="Ex_01_PipesInPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02_ConditionalStatements.MoreExercises.Ex_01_PipesInPool" />
       <module name="FirstStepsInCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProgrammingBasicsExams.*" />
+          <option name="PATTERN" value="_02_ConditionalStatements.MoreExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_05_PuppyCare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgrammingBasicsExams.Ex_05_PuppyCare" />
+    <configuration name="Ex_04_GiftFromSanta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgrammingBasicsExams.Ex_04_GiftFromSanta" />
       <module name="FirstStepsInCoding" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex_01_PipesInPool" />
         <item itemvalue="Application.test (1)" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Ex_06_GoldMine" />
         <item itemvalue="Application.Ex_04_GiftFromSanta" />
-        <item itemvalue="Application.Ex_05_PuppyCare" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +256,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616530690573</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Initial commit">
+      <created>1616530793790</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1616530793790</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Initial commit">
+      <created>1616530797777</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1616530797777</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
