@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa68acd0-fb93-4140-849d-6a7794586557" name="Default Changelist" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/src/_02_ConditionalStatements/MoreExercises/Ex_02_SleepyTom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/MoreExercises/Ex_02_SleepyTom.java" afterDir="false" />
-    </list>
+    <list default="true" id="fa68acd0-fb93-4140-849d-6a7794586557" name="Default Changelist" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -239,7 +237,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616531493986</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Initial commit">
+      <created>1616531672189</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1616531672189</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Initial commit">
+      <created>1616531679053</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1616531679053</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
