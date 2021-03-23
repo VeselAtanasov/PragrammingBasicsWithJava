@@ -9,9 +9,6 @@ public class Ex_02_SleepyTom {
         //•	Когато е на работа, стопанинът му си играе с него по 63 минути на ден.
         //•	Когато почива, стопанинът му си играе с него  по 127 минути на ден.
 
-        //int hours = t / 60; //since both are ints, you get an int
-        //int minutes = t % 60;
-        //System.out.printf("%d:%02d", hours, minutes);
 
         int freeDays = Integer.parseInt(scan.nextLine());
         int minutesGameInFreeTime = 127;
