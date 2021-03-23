@@ -1,0 +1,64 @@
+Index: src/ConditionalStatementsAdvancedExercise/OperationsBetweenNumbers06.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/ConditionalStatementsAdvancedExercise/OperationsBetweenNumbers06.java b/src/_03_ConditionalStatementsAdvanced/Exercise/Ex_06_OperationsBetweenNumbers.java
+rename from src/ConditionalStatementsAdvancedExercise/OperationsBetweenNumbers06.java
+rename to src/_03_ConditionalStatementsAdvanced/Exercise/Ex_06_OperationsBetweenNumbers.java
+--- a/src/ConditionalStatementsAdvancedExercise/OperationsBetweenNumbers06.java	(revision f5f305e94513f0edf74b958256893f82f69428d5)
++++ b/src/_03_ConditionalStatementsAdvanced/Exercise/Ex_06_OperationsBetweenNumbers.java	(date 1616530489762)
+@@ -1,8 +1,8 @@
+-package ConditionalStatementsAdvancedExercise;
++package _03_ConditionalStatementsAdvanced.Exercise;
+ 
+ import java.util.Scanner;
+ 
+-public class OperationsBetweenNumbers06 {
++public class Ex_06_OperationsBetweenNumbers {
+ 
+     public static void main(String[] args) {
+         Scanner scanner = new Scanner(System.in);
+@@ -11,7 +11,7 @@
+         int n2 = Integer.parseInt(scanner.nextLine());
+         String operator = scanner.nextLine();
+ 
+-        int n = 0;
++        int n;
+ 
+         switch (operator) {
+             case "+":
+@@ -46,12 +46,10 @@
+                 } else if (n2 == 0) {
+                     System.out.printf("Cannot divide %d by zero", n1);
+                 } else {
+-                    n = n1 / n2;
+-                    double newN = n;
+-                    double newN1 = n1;
+-                    double newN2 = n2;
+-                    newN = newN1 / newN2;
+-                    System.out.printf("%.0f / %.0f = %.2f", newN1, newN2, newN);
++
++                    double newN;
++                    newN = (double) n1 / (double) n2;
++                    System.out.printf("%.0f / %.0f = %.2f", (double) n1, (double) n2, newN);
+                 } break;
+ 
+             case "%":
+@@ -60,12 +58,10 @@
+                 } else if(n2 == 0){
+                     System.out.printf("Cannot divide %d by zero", n1);
+                 } else {
+-                    n = n1 % n2;
+-                    double newN = n;
+-                    double newN1 = n1;
+-                    double newN2 = n2;
+-                    newN = newN1 % newN2;
+-                    System.out.printf("%.0f %% %.0f = %.0f", newN1, newN2, newN);
++
++                    double newN;
++                    newN = (double) n1 % (double) n2;
++                    System.out.printf("%.0f %% %.0f = %.0f", (double) n1, (double) n2, newN);
+                 } break;
+         }
+     }

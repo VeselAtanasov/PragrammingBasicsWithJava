@@ -2,194 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa68acd0-fb93-4140-849d-6a7794586557" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/_06_WhileLoop/Exercise/Ex_06_Cake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedExercise/Cinema01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Exercise/Ex_01_Cinema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedExercise/FishingBoat04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Exercise/Ex_04_FishingBoat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedExercise/HotelRoom07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Exercise/Ex_07_HotelRoom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedExercise/Journey05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Exercise/Ex_05_Journey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedExercise/NewHouse03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Exercise/Ex_03_NewHouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedExercise/OnTimeForTheExam08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Exercise/Ex_08_OnTimeForTheExam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedExercise/OperationsBetweenNumbers06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Exercise/Ex_06_OperationsBetweenNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedExercise/SummerOutfit02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Exercise/Ex_02_SummerOutfit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedExercise/Volleyball09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Exercise/Ex_09_Volleyball.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedExercise/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/AnimalType03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Lab/Ex_03_AnimalType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/CinemaTicket08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Lab/Ex_08_CinemaTicket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/DayOfWeek01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Lab/Ex_01_DayOfWeek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/FruitOrVegetable09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Lab/Ex_09_FruitOrVegetable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/FruitShop11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Lab/Ex_11_FruitShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/InvalidNumber10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Lab/Ex_10_InvalidNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/NumberInRange06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Lab/Ex_06_NumberInRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/PersonalTitles04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Lab/Ex_04_PersonalTitles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/SkiTrip13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Lab/Ex_13_SkiTrip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/SmallShop05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Lab/Ex_05_SmallShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/TradeCommissions12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Lab/Ex_12_TradeCommissions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/WeekendOrWorkingDay02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Lab/Ex_02_WeekendOrWorkingDay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/WorkingHours07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/Lab/Ex_07_WorkingHours.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsExercise/BonusScore02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/Exercise/Ex_02_BonusScore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsExercise/GodzillaVsKong06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/Exercise/Ex_06_GodzillaVsKong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsExercise/MetricConverter04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/Exercise/Ex_04_MetricConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsExercise/Scholarship08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/Exercise/Ex_08_Scholarship.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsExercise/SpeedInfo03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/Exercise/Ex_03_SpeedInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsExercise/SumSeconds01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/Exercise/Ex_01_SumSeconds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsExercise/TimeMinutes05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/Exercise/Ex_05_TimeMinutes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsExercise/WorldSwimmingRecord07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/Exercise/Ex_07_WorldSwimmingRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsLab/AreaOfFigures06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/Lab/Ex_06_AreaOfFigures.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsLab/EvenOrOdd03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/Lab/Ex_03_EvenOrOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsLab/ExcellentResult01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/Lab/Ex_01_ExcellentResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsLab/GreaterNumber02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/Lab/Ex_02_GreaterNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsLab/Numbers04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/Lab/Ex_04_Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsLab/PasswordGuess05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/Lab/Ex_05_PasswordGuess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsLab/ToyShop07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/Lab/Ex_07_ToyShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsMoreExercises/CleepyTom02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/MoreExercises/Ex_02_SleepyTom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsMoreExercises/Firm05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/MoreExercises/Ex_05_Firm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsMoreExercises/FlowerShop07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/MoreExercises/Ex_07_FlowerShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsMoreExercises/FuelTank08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/MoreExercises/Ex_08_FuelTank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsMoreExercises/FuelTank082.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/MoreExercises/Ex_08_FuelTankTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsMoreExercises/Harvest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/MoreExercises/Ex_03_Harvest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsMoreExercises/Pets06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/MoreExercises/Ex_06_Pets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsMoreExercises/PipesInPool01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/MoreExercises/Ex_01_PipesInPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalStatementsMoreExercises/TransportPrice04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_ConditionalStatements/MoreExercises/Ex_04_TransportPrice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsInCodingExercise/Birthday05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/Exercise/Ex_05_Birthday.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsInCodingExercise/CharityCampaign06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/Exercise/Ex_06_CharityCampaign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsInCodingExercise/DepositCalculator07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/Exercise/Ex_03_DepositCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsInCodingExercise/FishTank08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/Exercise/Ex_08_FishTank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsInCodingExercise/FruitMarket07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/Exercise/Ex_07_FruitMarket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsInCodingExercise/RadiansToDegrees02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/Exercise/Ex_02_RadiansToDegrees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsInCodingExercise/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsInCodingExercise/UsdToBgn01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/Exercise/Ex_01_USDToBGN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsInCodingExercise/VacationBookList04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/Exercise/Ex_04_VacationBookList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsInCodingExercise/YardGreening09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/Exercise/Ex_09_YardGreening.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsInCodingLab/ConcatenateData06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/Lab/Ex_06_ConcatenateData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsInCodingLab/GreetingByName05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/Lab/Ex_05_GreetingByName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsInCodingLab/HelloWorld01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/Lab/Ex_01_HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsInCodingLab/InchToSm04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/Lab/Ex_04_InchToSm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsInCodingLab/Nums1to1002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/Lab/Ex_02_Numbers1To10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsInCodingLab/PetShop08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/Lab/Ex_08_PetShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsInCodingLab/ProjectCreation07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/Lab/Ex_07_ProjectCreation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsInCodingLab/SqareArea03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/Lab/Ex_03_SquareArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsInCodingLab/UserInputTESTS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsInCodingLab/YardGreening09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/Lab/Ex_09_YardGreening.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsMoreExercises/CelsiusToFahrenheit03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/MoreExercises/Ex_03_CelsiusToFahrenheit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsMoreExercises/CircleAreaAndPerimeter08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/MoreExercises/Ex_08_CircleAreaAndPerimeter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsMoreExercises/Fishland06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/MoreExercises/Ex_06_FishLand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsMoreExercises/HousePainting07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/MoreExercises/Ex_07_HousePainting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsMoreExercises/TrainingLab05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/MoreExercises/Ex_05_TrainingLab.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsMoreExercises/TrapezoidArea01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/MoreExercises/Ex_01_TrapezoidArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsMoreExercises/TriangleArea02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/MoreExercises/Ex_02_TriangleArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsMoreExercises/VegetableMarket04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/MoreExercises/Ex_04_VegetableMarket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsMoreExercises/WeatherForecast09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/MoreExercises/Ex_09_WeatherForecast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstStepsMoreExercises/WeatherForecast10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_FirstStepsInCoding/MoreExercises/Ex_10_WeatherForecast2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopExercise/DivideWithoutRemainder05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/Exercise/Ex_05_DivideWithoutRemainder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopExercise/HalfSumElement02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/Exercise/Ex_02_HalfSumElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopExercise/Histogram04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/Exercise/Ex_04_Histogram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopExercise/NumbersEndingIn701.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/Exercise/Ex_01_NumbersEndingIn7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopExercise/OddEvenPosition03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/Exercise/Ex_03_OddEvenPosition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopExercise/Salary06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/Exercise/Ex_06_Salary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopLab/CharacterSequence05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/Lab/Ex_05_CharacterSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopLab/CleverLily11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/Lab/Ex_11_CleverLily.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopLab/EvenPowersOf04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/Lab/Ex_04_EvenPowersOf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopLab/LeftAndRightSum09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/Lab/Ex_09_LeftAndRightSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopLab/NumberSequence08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/Lab/Ex_08_NumberSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopLab/NumbersFrom1to1001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/Lab/Ex_01_NumbersFrom1to10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopLab/NumbersN02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/Lab/Ex_02_NumbersN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopLab/NumbersWithStep3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/Lab/Ex_03_NumbersWithStep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopLab/OddEvenSum10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/Lab/Ex_10_OddEvenSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopLab/SumNumber07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/Lab/Ex_07_SumNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopLab/VowelsSum06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/Lab/Ex_06_VowelsSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopMoreExercises/BackToThePast01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/MoreExercises/Ex_01_BackToThePast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopMoreExercises/Bills06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/MoreExercises/Ex_06_Bills.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopMoreExercises/Clock09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/MoreExercises/Ex_09_Clock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopMoreExercises/EqualPairs08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/MoreExercises/Ex_08_EqualPairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopMoreExercises/FootballLeague07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/MoreExercises/Ex_07_FootballLeague.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopMoreExercises/GameOfIntervals05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/MoreExercises/Ex_05_GameOfIntervals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopMoreExercises/Grades04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/MoreExercises/Ex_04_Grades.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopMoreExercises/Hospital02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/MoreExercises/Ex_02_Hospital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopMoreExercises/Logistics03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/MoreExercises/Ex_03_Logistics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedConditionalStatementsMoreExercises/BikeRace02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/MoreExercises/Ex_02_BikeRace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedConditionalStatementsMoreExercises/CarToGo04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/MoreExercises/Ex_04_CarToGo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedConditionalStatementsMoreExercises/Flowers03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/MoreExercises/Ex_03_Flowers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedConditionalStatementsMoreExercises/MatchTickets01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/MoreExercises/Ex_01_MatchTickets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedConditionalStatementsMoreExercises/MultiplyBy2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/MoreExercises/Ex_10_MultiplyBy2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedConditionalStatementsMoreExercises/NumbersFrom1To10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/MoreExercises/Ex_09_NumbersFrom1To10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedConditionalStatementsMoreExercises/PointonRectangleBorder08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/MoreExercises/Ex_08_PointOnRectangleBorder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedConditionalStatementsMoreExercises/SchoolCamp07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/MoreExercises/Ex_07_SchoolCamp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedConditionalStatementsMoreExercises/TruckDriver06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/MoreExercises/Ex_06_TruckDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedConditionalStatementsMoreExercises/Vacation05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ConditionalStatementsAdvanced/MoreExercises/Ex_05_Vacation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsExercises/EqualSumsEvenOddPosition02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/Exercises/Ex_02_EqualSumsEvenOddPosition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsExercises/NumberPyramid01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/Exercises/Ex_01_NumberPyramid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsExercises/PasswordGenerator05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/Exercises/Ex_05_PasswordGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsExercises/SpecialNumbers06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/Exercises/Ex_06_SpecialNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsExercises/SumPrimeNonPrime03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/Exercises/Ex_03_SumPrimeNonPrime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsExercises/TrainTheTrainers04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/Exercises/Ex_04_TrainTheTrainers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsLab/Building06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/Lab/Ex_06_Building.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsLab/CinemaTickets07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/Lab/Ex_07_CinemaTickets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsLab/Clock01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/Lab/Ex_01_Clock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsLab/Combinations03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/Lab/Ex_03_Combinations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsLab/MultiplicationTable02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/Lab/Ex_02_MultiplicationTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsLab/SumOfTwoNumbers04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/Lab/Ex_04_SumOfTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsLab/Travelling05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/Lab/Ex_05_Travelling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsMoreExercises/CarNumber04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/MoreExercises/Ex_04_CarNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsMoreExercises/ChallengeTheWedding05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/MoreExercises/Ex_05_ChallengeTheWedding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsMoreExercises/HappyCatParking11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/MoreExercises/Ex_11_HappyCatParking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsMoreExercises/LettersCombinations02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/MoreExercises/Ex_02_LettersCombinations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsMoreExercises/LuckyNumbers03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/MoreExercises/Ex_03_LuckyNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsMoreExercises/PrimePairs13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/MoreExercises/Ex_13_PrimePairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsMoreExercises/Profit10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/MoreExercises/Ex_10_Profit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsMoreExercises/SafePasswordsGenerator07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/MoreExercises/Ex_07_SafePasswordsGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsMoreExercises/SecretDoorsLock08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/MoreExercises/Ex_08_SecretDoorsLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsMoreExercises/SumOfTwoNumbers09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/MoreExercises/Ex_09_SumOfTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsMoreExercises/TheSongOfTheWheels12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/MoreExercises/Ex_12_TheSongOfTheWheels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsMoreExercises/UniquePINCodes01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/MoreExercises/Ex_01_UniquePINCodes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NestedLoopsMoreExercises/WeddingSeats06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_NestedLoops/MoreExercises/Ex_06_WeddingSeats.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/ANDProcessors02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_02_AndProcessors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/BarcodeGenerator06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_06_BarcodeGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/BestPlayer05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_05_BestPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/CareOfPuppy05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_05_CareOfPuppy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/CatFood04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_04_CatFood.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/EasterBake05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_05_EasterBake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/EasterEggs05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_05_EasterEggs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/EasterShop04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_04_EasterShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/FitnessCenter05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_05_FitnessCenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/FoodForPets04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_04_FoodForPets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/FootballSouvenirs03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_03_FootballSouvenirs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/GoldMine06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_06_GoldMine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/MovieRatings05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_05_MovieRatings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/Oscars05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_05_Oscars05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/PoolDay01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_01_PoolDay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/ProgrammingBook01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_01_ProgrammingBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/PuppyCare05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_05_PuppyCare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/SuitcasesLoad05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_05_SuitcasesLoad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/TennisRankList05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_05_TennisRankList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/TournamentOfChristmas06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_06_TournamentOfChristmas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/TravelAgency03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_03_TravelAgency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/TrekkingMania04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_04_TrekkingMania.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/VetParking06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_06_VetParking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/WorldSnookerChampionship03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_03_WorldSnookerChampionship.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_01_MiningRig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_02_Spaceship.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgrammingBasicsOnlineExam/ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgrammingBasicsExams/Ex_04_GiftFromSanta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoopExercise/Cake06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoopExercise/Coins05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_WhileLoop/Exercise/Ex_05_Coins.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoopExercise/ExamPreparation02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_WhileLoop/Exercise/Ex_02_ExamPreparation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoopExercise/OldBooks01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_WhileLoop/Exercise/Ex_01_OldBooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoopExercise/Vacation03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_WhileLoop/Exercise/Ex_03_Vacation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoopExercise/Walking04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_WhileLoop/Exercise/Ex_04_Walking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoopLab/AccountBalance05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_WhileLoop/Lab/Ex_05_AccountBalance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoopLab/GraduationPt208.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_WhileLoop/Lab/Ex_08_Graduation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoopLab/MaxNumber06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_WhileLoop/Lab/Ex_06_MaxNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoopLab/MinNumber07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_WhileLoop/Lab/Ex_07_MinNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoopLab/Moving09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_WhileLoop/Lab/Ex_09_Moving.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoopLab/Password02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_WhileLoop/Lab/Ex_02_Password.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoopLab/ReadText01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_WhileLoop/Lab/Ex_01_ReadText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoopLab/Sequence2k104.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_WhileLoop/Lab/Ex_04_Sequence2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoopLab/SumNumbers03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_WhileLoop/Lab/Ex_03_SumNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoopMoreExercises/AverageNumber05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_WhileLoop/MoreExercises/Ex_05_AverageNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoopMoreExercises/Dishwasher01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_WhileLoop/MoreExercises/Ex_01_Dishwasher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoopMoreExercises/NumbersDivided04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_WhileLoop/MoreExercises/Ex_04_NumbersDivided.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoopMoreExercises/ReportSystem02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_WhileLoop/MoreExercises/Ex_02_ReportSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoopMoreExercises/StreamOfLetters03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_WhileLoop/MoreExercises/Ex_03_StreamOfLetters.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -398,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616351229168</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Initial commit">
+      <created>1616530690573</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1616530690573</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

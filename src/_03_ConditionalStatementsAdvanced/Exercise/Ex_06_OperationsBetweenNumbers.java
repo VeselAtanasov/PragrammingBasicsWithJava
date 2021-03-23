@@ -1,8 +1,8 @@
-package ConditionalStatementsAdvancedExercise;
+package _03_ConditionalStatementsAdvanced.Exercise;
 
 import java.util.Scanner;
 
-public class OperationsBetweenNumbers06 {
+public class Ex_06_OperationsBetweenNumbers {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -11,7 +11,7 @@ public class OperationsBetweenNumbers06 {
         int n2 = Integer.parseInt(scanner.nextLine());
         String operator = scanner.nextLine();
 
-        int n = 0;
+        int n;
 
         switch (operator) {
             case "+":
@@ -46,12 +46,10 @@ public class OperationsBetweenNumbers06 {
                 } else if (n2 == 0) {
                     System.out.printf("Cannot divide %d by zero", n1);
                 } else {
-                    n = n1 / n2;
-                    double newN = n;
-                    double newN1 = n1;
-                    double newN2 = n2;
-                    newN = newN1 / newN2;
-                    System.out.printf("%.0f / %.0f = %.2f", newN1, newN2, newN);
+
+                    double newN;
+                    newN = (double) n1 / (double) n2;
+                    System.out.printf("%.0f / %.0f = %.2f", (double) n1, (double) n2, newN);
                 } break;
 
             case "%":
@@ -60,12 +58,10 @@ public class OperationsBetweenNumbers06 {
                 } else if(n2 == 0){
                     System.out.printf("Cannot divide %d by zero", n1);
                 } else {
-                    n = n1 % n2;
-                    double newN = n;
-                    double newN1 = n1;
-                    double newN2 = n2;
-                    newN = newN1 % newN2;
-                    System.out.printf("%.0f %% %.0f = %.0f", newN1, newN2, newN);
+
+                    double newN;
+                    newN = (double) n1 % (double) n2;
+                    System.out.printf("%.0f %% %.0f = %.0f", (double) n1, (double) n2, newN);
                 } break;
         }
     }
